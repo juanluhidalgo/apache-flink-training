@@ -1,1 +1,1 @@
-# apache-flink-course
+# apache-flink-training
